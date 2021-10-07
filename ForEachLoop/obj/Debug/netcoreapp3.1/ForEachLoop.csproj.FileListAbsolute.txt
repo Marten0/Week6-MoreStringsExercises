@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.exe
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.deps.json
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.dll
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.pdb
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.dll
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.pdb
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.genruntimeconfig.cache

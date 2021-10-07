@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\SubstituteCharacters\bin\Debug\netcoreapp3.1\SubstituteCharacters.exe
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\SubstituteCharacters\bin\Debug\netcoreapp3.1\SubstituteCharacters.deps.json
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\SubstituteCharacters\bin\Debug\netcoreapp3.1\SubstituteCharacters.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\SubstituteCharacters\bin\Debug\netcoreapp3.1\SubstituteCharacters.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\SubstituteCharacters\bin\Debug\netcoreapp3.1\SubstituteCharacters.dll
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\SubstituteCharacters\bin\Debug\netcoreapp3.1\SubstituteCharacters.pdb
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\SubstituteCharacters\obj\Debug\netcoreapp3.1\SubstituteCharacters.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\SubstituteCharacters\obj\Debug\netcoreapp3.1\SubstituteCharacters.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\SubstituteCharacters\obj\Debug\netcoreapp3.1\SubstituteCharacters.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\SubstituteCharacters\obj\Debug\netcoreapp3.1\SubstituteCharacters.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\SubstituteCharacters\obj\Debug\netcoreapp3.1\SubstituteCharacters.dll
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\SubstituteCharacters\obj\Debug\netcoreapp3.1\SubstituteCharacters.pdb
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\SubstituteCharacters\obj\Debug\netcoreapp3.1\SubstituteCharacters.genruntimeconfig.cache

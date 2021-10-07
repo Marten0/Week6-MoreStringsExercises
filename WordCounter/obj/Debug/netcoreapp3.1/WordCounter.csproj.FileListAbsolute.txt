@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\WordCounter\bin\Debug\netcoreapp3.1\WordCounter.exe
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\WordCounter\bin\Debug\netcoreapp3.1\WordCounter.deps.json
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\WordCounter\bin\Debug\netcoreapp3.1\WordCounter.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\WordCounter\bin\Debug\netcoreapp3.1\WordCounter.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\WordCounter\bin\Debug\netcoreapp3.1\WordCounter.dll
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\WordCounter\bin\Debug\netcoreapp3.1\WordCounter.pdb
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\WordCounter\obj\Debug\netcoreapp3.1\WordCounter.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\WordCounter\obj\Debug\netcoreapp3.1\WordCounter.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\WordCounter\obj\Debug\netcoreapp3.1\WordCounter.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\WordCounter\obj\Debug\netcoreapp3.1\WordCounter.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\WordCounter\obj\Debug\netcoreapp3.1\WordCounter.dll
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\WordCounter\obj\Debug\netcoreapp3.1\WordCounter.pdb
+C:\Users\opilane\source\repos\logitpe21\MoreStringsExercises\WordCounter\obj\Debug\netcoreapp3.1\WordCounter.genruntimeconfig.cache
